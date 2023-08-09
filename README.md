@@ -1,6 +1,8 @@
 
 # JavaChatXpress - Real-Time Java Chat Application
+[![language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](language)
 
+## Overview
 Enhance your communication experience with JavaChatXpress, a powerful and dynamic real-time chat application crafted in Java. Elevate your interactions with features such as user notifications for new joiners and departures, along with message transmission indicators. Embrace seamless communication through this project, showcasing the prowess of socket programming, multi-threading, and user-friendly graphical interfaces.
 
 ## Key Features
