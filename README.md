@@ -43,11 +43,18 @@ Enhance your communication experience with JavaChatXpress, a powerful and dynami
 
 ## Project Images
 
-![Chat Application](screenshots/chat_app_image_1.png)
+![Chat Application](Screenshots/group_chat.png)
 *Screenshot 1: Group chat interface with user notifications*
 
-![Chat Application](screenshots/chat_app_image_2.png)
-*Screenshot 2: Message transmission indicator in action*
+![Chat Application](Screenshots/group_chat_2.png)
+*Screenshot 2: Group chat interface with multiple clients*
+
+![Chat Application](Screenshots/message_transmit_indication.png)
+![Chat Application](Screenshots/message_transmit_indication_2.png)
+*Screenshot 3: Message transmission successful indicator in action*
+
+![Chat Application](Screenshots/console_group_chat.png)
+*Screenshot 4:Group chat interface on the console*
 
 ## Contributions
 
