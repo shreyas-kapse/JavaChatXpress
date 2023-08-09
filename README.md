@@ -64,5 +64,3 @@ Join us in elevating communication experiences with JavaChatXpress. Download, co
 ---
 ## Contact Information
 For any inquiries or further information, please contact the project maintainer at shreyaskapse171@gmail.com.
-
-Experience the beauty of mutual fund tracking and investment management with MutualMind. Simplify your financial journey and make informed investment decisions effortlessly!
